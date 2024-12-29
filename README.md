@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/userupload/14870403/file/original-d4592d4cddfa59e3f760c477b88d86d7.mp4" />
+<!-- <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/userupload/14870403/file/original-d4592d4cddfa59e3f760c477b88d86d7.mp4" /> -->
 
 ### I am a Full Stack Developer at Helium
 - 🌱 I’m currently learning Backend Development.
