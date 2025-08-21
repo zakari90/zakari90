@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85+;Asalamo+alykom;Peace+be+upon+you;Que+la+paix+soit+sur+vous)](https://git.io/typing-svg)
 
-<h1 align="center">👋, I'm zakaria</h1>
-
 # 💫 About Me:
 
-<h3 align="center">A passionate Full-Stack Developer.- Next.js, React & TypeScript😄
+<h3 align="center">A passionate Full-Stack Developer.- Next.js, React & TypeScript
 </h3>
 
 <br>
