@@ -11,17 +11,12 @@
 
 <!-- <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/userupload/14870403/file/original-d4592d4cddfa59e3f760c477b88d86d7.mp4" /> -->
 
-### I am a Full Stack Developer at Helium
-- 🌱 I’m currently learning Backend Development.
+###
+- 🌱 I'm always learning...
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2025 Goals: Contribute to Open Source projects
 <!-- - 💬 Ask me about anything, I am happy to help :smile: -->
-<!-- - 📬 How to reach me: [Let's get in touch!][linkedin] -->
-<!-- - 🧗 I try to: Go beyond and push the bounds -->
-<!-- - ⚡ Fun fact: I love connecting with different people :raised_hands: -->
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- - 📬 Contact me: zakariazinedin1@gmail.com -->
 </br>
 
 # 💻 Tech Stack:
